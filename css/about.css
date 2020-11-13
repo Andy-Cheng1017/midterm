@@ -1,6 +1,5 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
-}
+    font-family: 'Roboto', sans-serif;}
 header{
     position: relative;
     top: 80px;
@@ -162,7 +161,7 @@ footer{
     align-items: center;
     justify-content: center;
 }
-.footer-container{
+.footer_container{
     font-size: 18px;
     width: 396px;
     height: 59px;
@@ -171,12 +170,12 @@ footer{
     justify-content: center;
     flex-direction: column;
 }
-.footer-container-top{
+.top{
     width: 309px;
     height: 28px;
     display: flex;
 }
-.footer-container-bottom{
+.bottom{
     width: 396px;
     height: 21px;
 }

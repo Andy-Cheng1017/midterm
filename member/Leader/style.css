@@ -1,6 +1,7 @@
 body{
     background-image:url(../../img/LeaderBG.png);
     background-size: cover;
+    font-family: 'Roboto', sans-serif;
 }
 header{
     background-color: #1E4887;
